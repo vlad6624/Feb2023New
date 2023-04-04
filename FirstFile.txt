@@ -1,1 +1,2 @@
 Welcome to Git amd Check in the code.- New changes to file
+Automation code
